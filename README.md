@@ -1,7 +1,7 @@
 # Telegram-Mass-DM-Sender
 Send mass DM to your target group members through this software
 
-Purchase it on my website : https://erfan4lx.com
+Purchase it on my website : https://erfan4lx.com/product/Telegram-Mass-DM-Sender
 
 Contact with me to get the Password of Zip file on :
 
