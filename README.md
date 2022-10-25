@@ -3,6 +3,17 @@ Send mass DM to your target group members through this software
 
 Purchase it on my website : https://erfan4lx.com/product/Telegram-Mass-DM-Sender
 
+Features :
+✅Add any number of accounts to the software
+✅Can use multi proxies to use for the accounts such as https , socks4/5
+✅Can use any number of api id and api hashes
+✅Can scrape and send message to only online members
+✅Can send message to just the members which have username
+✅Can send non-stop direct message
+✅Can set to each account message to how many people
+✅Join the accounts to your target group fully automatically by the software
+✅Send message with photo+caption / video+caption
+
 Contact with me to get the Password of Zip file on :
 
  Telegram : https://t.me/erfan4lx1
