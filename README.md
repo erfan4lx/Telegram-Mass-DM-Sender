@@ -23,6 +23,8 @@ Features :
 
 ✅Send message with photo+caption / video+caption
 
+✅Save the members which got message from the tool to don't send message to the same members at next time using the software
+
 Contact with me to get the Password of Zip file on :
 
  Telegram : https://t.me/erfan4lx1
